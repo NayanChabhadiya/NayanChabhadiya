@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nayanchabhadiya123@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I love traveling and capture the moments.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
