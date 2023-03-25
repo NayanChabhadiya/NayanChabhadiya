@@ -9,7 +9,7 @@
 - 📫 How to reach me **nayanchabhadiya123@gmail.com**
 
 - ⚡ Fun fact **I love traveling and capture the moments.**
-
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanchabhadiya" alt="nayanchabhadiya" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
