@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/nayan1734" target="blank"><img src="https://img.shields.io/twitter/follow/nayan1734?logo=twitter&style=for-the-badge" alt="nayan1734" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanchabhadiya" alt="nayanchabhadiya" /></a> </p>
-
 - 📫 How to reach me **nayanchabhadiya123@gmail.com**
 
 - ⚡ Fun fact **I love traveling and capture the moments.**
